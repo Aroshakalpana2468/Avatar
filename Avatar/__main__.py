@@ -92,17 +92,17 @@ START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
 DONATE_STRING = """
 *Avatar* is hosted on one of Heroku's Servers and doesn't require any donations as of now but \
-You can donate to the developer of the *Avatar*, [ImDilasna](t.me/ImDilasna)
+You can donate to the developer of the *Avatar*, [arosha](t.me/BUDDY3_FF)
 """
 
 BUTTONS = [
                     [
                         InlineKeyboardButton(
                              text=" 👪 Support Group ",
-                             url="https://t.me/SlNinjaTeam"),
+                             url="https://t.me/aastream"),
                          InlineKeyboardButton(
                              text=" 🔔 Update Channel ",
-                             url="https://t.me/SLninjaTeamchannel")
+                             url="https://t.me/pc1games12")
                     ],
                     [
                         InlineKeyboardButton(
@@ -110,7 +110,7 @@ BUTTONS = [
                             url="http://t.me/snt_super_ro_bot?start=help"),
                          InlineKeyboardButton(
                             text=" ⚡️ Developer ",
-                             url="https://t.me/ImDilasna")        
+                             url="https://t.me/BUDDY3_FF")        
                        
                     ],
                     [
