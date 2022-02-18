@@ -61,9 +61,9 @@ from Avatar.modules.helper_funcs.misc import paginate_modules
 from Avatar.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-*Hi, my name is* [Avatar](https://telegra.ph/file/430a51d113196c7c7fa06.jpg) !
+*Hi, my name is* [Lara](https://te.legra.ph/file/dae34ec619acf02b80add.jpg) !
 
-I am a Powerful Group Manager bot Developed by [ImDilasna](@ImDilasna)
+I am a Powerful Group Manager bot Developed by [AROSHA](@BUDDY3_FF)
 
 You can find my list of available commands with /help.
 
@@ -71,7 +71,7 @@ You can find my list of available commands with /help.
 """
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/453e68ce3660faf6c82fc.jpg)
+*Main Commands :* [🤖](https://te.legra.ph/file/3b7e91ea451981f4d60b4.jpg)
 Hey there! My name is *Avatar*
 I'm Powerful BOT to Make Your Groups Secured and Organized & I help admins to manage their groups! Have a look at the following for an idea of some of \
 the things I can help you with.
