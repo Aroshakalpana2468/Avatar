@@ -61,8 +61,8 @@
 
 
 # ⚡ Support
-<a href="https://t.me/SLninjaTeamchannel"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/SlNinjaTeam"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/aastrem"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/aastem"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 ![Contributors](https://contrib.rocks/image?repo=Dilasnaofficical/Avatar)
